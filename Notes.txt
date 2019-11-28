@@ -1,0 +1,5 @@
+Project created on 28.11.2019 by mrValtiel
+Its purpose is to learn Unity and make small projects
+
+Projects:
+ - P000MainMenu - learn to create some nice menu with animation
